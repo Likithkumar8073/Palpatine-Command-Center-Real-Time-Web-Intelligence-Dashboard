@@ -27,6 +27,9 @@ Using complex SPL (Search Processing Language) queries, we engineered **interact
 
 ---
 
+## The splunk app is currently unaccessible due to access issue! Will be fixed and running soon!
+
+---
 ## ⚙️ Tech Stack
 
 | Component | Description |
