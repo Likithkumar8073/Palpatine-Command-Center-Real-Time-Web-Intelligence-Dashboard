@@ -1,0 +1,2 @@
+# Palpatine-Command-Center-Real-Time-Web-Intelligence-Dashboard
+Advanced Splunk-based web log analytics project developed by Team Palpatine, focused on ingesting and analyzing 3.5GB of Apache web server logs. Built interactive dashboards and complex SPL queries to uncover insights on user behavior, performance trends, and security anomalies, enabling real-time monitoring and data-driven decision-making.
